@@ -1,0 +1,15 @@
+{
+  "producto1": "Samsung galaxy s6",
+  "producto2": "Sony xperia z5",
+  "producto3": "Sony vaio i5",
+  "name": "Leonardo", 
+  "country": "Argentina", 
+  "city": "Buenos aires", 
+  "card": "123456789789", 
+  "month": "Octubre", 
+  "year": "2023",
+  "petName": "Chuck" ,
+  "categoryName": "jack russell terrier",
+  "petNameUpdate": "Patan",
+  "statusSold": "sold"
+}

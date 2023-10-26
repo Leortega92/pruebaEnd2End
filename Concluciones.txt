@@ -1,0 +1,23 @@
+Buenas, como comente en el README, Muchas gracias por la oportunidad que me dieron para realizar este test.
+
+algunas consideraciones a tener en cuenta como mencione en el README:
+
+# Test de frontend
+Se encuentra en la ruta cypress>e2e>flujo-de-compra>flujo_de_compra.cy.js
+
+# Test de backend
+Se encuentra en la ruta cypress>e2e>ABM_de_mascotas>ABM_de_mascotas.cy.js
+
+le deje ABM, me parecio apropiado las siglas de Alta-Baja-Modificaciones
+
+
+con respecto a los Test no menciona o por el simple hecho de que la prueba tecnica no se basa en reportar defectos dentro del hambito laboral
+hubiera levantado la mano al encontrar algunas algunos detalles como no se visualiza la cantidad de productos en el carro, el formulario no es claro con respecto al mes si es numeros o letras
+(septiembre por ejemplo), entre otras cosas que se puede preguntar y reportar llegado al caso que no sea un comportamiento esperado 
+
+# para la creacion de los test de frontend elegi la opcion numero 1, mas alla de lo solicitado en el test hice algunas validaciones 
+por ejemplo: validar que en la seccion del carrito los productos agregados sea = 2
+
+
+# para la creacion de los test de backend elegi la opcion numero 2, mas alla de lo solicitado en el test hice algunas validaciones
+por ejemplo: validar al final del ultimo metodo que el registro se modificara correctamente los campos que anteriormente se modificaron
