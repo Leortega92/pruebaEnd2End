@@ -18,4 +18,4 @@ le deje ABM, me parecio apropiado las siglas de Alta-Baja-Modificaciones
 2. npx cypress open
 
 
-Repo en github: https://github.com/Leortega92/Cypress-end2end-Devsu.git
+Repo en github: https://github.com/Leortega92/pruebaEnd2End.git
